@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "夜にダンス",
+  "base_artist": "フレンズ",
+  "createdAt": "2025-12-02T21:05:14.475134Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜にダンス",
+      "artist": "フレンズ",
+      "has_synced": true,
+      "path": "select/01_夜にダンス_フレンズ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夜にダンス (10th Anniversary MIX)",
+      "artist": "Friends",
+      "has_synced": false,
+      "path": "select/02_夜にダンス_(10th_Anniversary_MIX)_Friends.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜にダンス",
+      "artist": "フレンズ",
+      "has_synced": false,
+      "path": "select/pl_01_夜にダンス_フレンズ.txt"
+    }
+  ]
+}
